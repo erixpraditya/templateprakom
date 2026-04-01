@@ -26,7 +26,7 @@ $activ = 'berobat';
         <div class="col py-3">
         <div class="card m-auto">
             <div class="card-body">
-            <a title="Tambah Data Baru" href="form.php" class="btn btn-primary mb-2"><i class="fa fa-file-export"></i> Print</a>
+            <a title="Tambah Data Baru" href="cetak.php" class="btn btn-primary mb-2"><i class="fa fa-file-export"></i> Print</a>
                     <table class="table table-striped table-bordered">
                         <thead>
                             <tr class="table-primary text-center">
